@@ -16,7 +16,7 @@ export const FakeStore = () => {
 
   return (
     <div>
-      <h1>fakeStore</h1>
+      <h1>FakeStore</h1>
     </div>
   );
 };
