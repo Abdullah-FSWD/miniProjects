@@ -1,0 +1,14 @@
+.cardImg {
+  width: 70%;
+  height: 45vh;
+  margin: 10px;
+}
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: repeat(4, 24%);
+  gap: 10px;
+}
